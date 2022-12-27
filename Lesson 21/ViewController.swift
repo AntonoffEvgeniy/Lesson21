@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
     
     func setup() {
-        view.backgroundColor = .red
+        view.backgroundColor = .blue
     }
 }
 
